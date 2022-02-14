@@ -1,6 +1,6 @@
-# Random Quote Machine
+# Markdown Previewer
 
-A React app which allows users to read quotes and share to social network(twiter)
+A React app which allows users to create markdown and watch results in real-time
 
 [Live Demo](https://ntpon.github.io/markdown-previewer/)
 
